@@ -4,7 +4,7 @@ This simple workflow will automatically scope your search queries, by inserting 
 
 ## Installation
 
-Download the [workflow](https://github.com/willgeorgetaylor/alfred-elixir-search/releases/download/v1.0/ElixirSearch.alfredworkflow), and open with Alfred.
+Download the [workflow](https://github.com/willgeorgetaylor/alfred-elixir-search/releases/download/v1.1/ElixirSearch.alfredworkflow), and open with Alfred.
 
 ## Usage
 
