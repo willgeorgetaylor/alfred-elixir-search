@@ -8,10 +8,18 @@ Download the [workflow](https://github.com/willgeorgetaylor/alfred-elixir-search
 
 ## Usage
 
-Keyword `ex`: start a Google search on the topic of Elixir.
-Keyword `ph`: start a Google search on the topic of Phoenix.
+1. Open Alfred.
+2. Type keyword (`ex` for Elixir, `ph` for Phoenix).
+3. Follow with space and your query.
+4. Press 'Enter' to open browser for results.
 
-Type your query, and press enter to open Google for the results.
+## Demos
+
+Using the Elixir (`ex`) shortcut:
+![Using the Elixir shortcut](https://github.com/willgeorgetaylor/alfred-elixir-search/blob/master/elixir.gif)
+
+Using the Phoenix (`ph`) shortcut:
+![Using the Phoenix shortcut](https://github.com/willgeorgetaylor/alfred-elixir-search/blob/master/phoenix.gif)
 
 ## Copyright
 
